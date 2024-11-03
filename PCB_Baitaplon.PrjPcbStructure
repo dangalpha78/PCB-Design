@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=SCH_3.3v_regulator.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=SCH_3.3v_regulator.SchDoc|FileName=SCH_esp32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=SCH_3.3v_regulator.SchDoc|FileName=SCH_LEDS.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=SCH_3.3v_regulator.SchDoc|FileName=SCH_RS-485.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=SCH_3.3v_regulator.SchDoc|FileName=SCH_sensor.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=SCH_3.3v_regulator.SchDoc|FileName=SCH_switches.SchDoc|SheetNumber=3
