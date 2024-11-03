@@ -1,7 +1,7 @@
 ﻿# PCB DESIGN
 
 
-1. **Schematic Design** 
+## **Schematic Design** 
 1. *3.3V Regular* 
 
 ![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.013.jpeg)
@@ -34,7 +34,7 @@
 
    ![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.021.jpeg)
 
-3. **Answering the question** 
+## **Answering the question** 
 1. **Research on the Internet and list 5 different current sensors that you** 
 
 **can find. Along with each current sensor, please (1) give a reference source, (2) maximum current that the sensor can measure, and (3) how to obtain its values (e.g, using ADC, UART, I2C or SPI and so on).** 
