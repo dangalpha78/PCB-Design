@@ -1,16 +1,5 @@
-﻿**BỘ GIÁO DỤC VÀ ĐÀO TẠO  
-![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.001.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.002.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.003.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.004.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.005.png)TRƯỜNG ĐẠI HỌC** **BÁCH KHOA TP.HCM** 
+﻿# PCB DESIGN
 
-![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.006.png)
-
-**LABORATORY REPORT  
-![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.007.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.008.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.009.png)ELECTRICAL ELECTRONIC CIRCUITS (CC01)  PROJECT**  
-
-`             `Tutor : Nguyễn Thiên Ân   
-
-`           `Student ID : Nguyễn Minh Đăng - 2252154  
-
-![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.010.png)  ![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.011.png)![](README_PIC/Aspose.Words.493ad605-28fb-4931-85ae-ed62317a46cc.012.png)
 
 1. **Schematic Design** 
 1. *3.3V Regular* 
