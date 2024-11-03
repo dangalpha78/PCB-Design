@@ -147,7 +147,7 @@ Next, in order to calculate ![ref4], we will need the resistance value of the rh
 
 In conclusion, the currents go through each LED is at 53.8mA, while when controlling a 100mW LED, we need to adjust the value of the rheostat at R=0.1152Ω, the transistor will be in saturated mode, so the current go through 
 
-the LED should be equal to the ![ref4](51.282mA). 
+the LED should be equal to the ![ref4] (51.282mA). 
 
 6. **What is the main purpose of D2 in Figure 1.6?** 
 
